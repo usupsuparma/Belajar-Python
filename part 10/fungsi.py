@@ -8,4 +8,4 @@ def belanja(kg):
     print("anda sedang belanja ayam sebanya ",kg,"kg")
     hargatotal = kg * hargaAyam()
     print("total belanja: ",hargatotal)
-belanja(3.56)
+belanja(0.6)
