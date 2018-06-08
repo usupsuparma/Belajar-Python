@@ -7,6 +7,8 @@ print("Data Sekarang: ",antrian)
 antrian.append(6)
 print("data masuk: ",6)
 print("Data Sekarang: ",antrian)
+
+
 jumlah = input("masukan jumlah data")
 j = int(jumlah)
 n = int(input("mauskan nilai n: "))
